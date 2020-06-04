@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a3390da-abeb-4051-bbdd-959333fb692d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cTQCAMpR2ikC0BL8YjpOUOZutX" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/com" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/com" />
+      <recent name="$PROJECT_DIR$/src/test/java/com/harrypotterapi" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.HarryPotterTests.mostMembersTest">
+    <configuration name="HarryPotterTests.allCharactersInfoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="APIHomework3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.harrypotterapi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.harrypotterapi" />
+      <option name="MAIN_CLASS_NAME" value="com.harrypotterapi.HarryPotterTests" />
+      <option name="METHOD_NAME" value="allCharactersInfoTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HarryPotterTests.houseMemberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="APIHomework3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.harrypotterapi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.harrypotterapi" />
+      <option name="MAIN_CLASS_NAME" value="com.harrypotterapi.HarryPotterTests" />
+      <option name="METHOD_NAME" value="houseMemberTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HarryPotterTests.houseMembersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="APIHomework3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.harrypotterapi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.harrypotterapi" />
+      <option name="MAIN_CLASS_NAME" value="com.harrypotterapi.HarryPotterTests" />
+      <option name="METHOD_NAME" value="houseMembersTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HarryPotterTests.mostMembersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="APIHomework3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.harrypotterapi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.harrypotterapi" />
+      <option name="MAIN_CLASS_NAME" value="com.harrypotterapi.HarryPotterTests" />
+      <option name="METHOD_NAME" value="mostMembersTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HarryPotterTests.nameSearchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="APIHomework3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.harrypotterapi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.harrypotterapi" />
+      <option name="MAIN_CLASS_NAME" value="com.harrypotterapi.HarryPotterTests" />
+      <option name="METHOD_NAME" value="nameSearchTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HarryPotterTests.mostMembersTest" />
+        <item itemvalue="JUnit.HarryPotterTests.houseMembersTest" />
+        <item itemvalue="JUnit.HarryPotterTests.houseMemberTest" />
+        <item itemvalue="JUnit.HarryPotterTests.nameSearchTest" />
+        <item itemvalue="JUnit.HarryPotterTests.allCharactersInfoTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a3390da-abeb-4051-bbdd-959333fb692d" name="Default Changelist" comment="" />
+      <created>1590549972283</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590549972283</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="100" width="1240" height="700" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1591158812909">
+      <screen x="0" y="0" width="1440" height="846" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1440.846@0.0.1440.846" timestamp="1591158812909" />
+    <state x="100" y="100" width="1240" height="700" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1440.847@0.0.1440.847" timestamp="1590979807324" />
+    <state width="1398" height="259" key="GridCell.Tab.0.bottom" timestamp="1591246923530">
+      <screen x="0" y="0" width="1440" height="847" />
+    </state>
+    <state width="1398" height="263" key="GridCell.Tab.0.bottom/0.0.1440.846@0.0.1440.846" timestamp="1591219429444" />
+    <state width="1398" height="259" key="GridCell.Tab.0.bottom/0.0.1440.847@0.0.1440.847" timestamp="1591246923530" />
+    <state width="1398" height="307" key="GridCell.Tab.0.bottom/0.0.1440.848@0.0.1440.848" timestamp="1590937932932" />
+    <state width="1398" height="332" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1591219324959" />
+    <state width="1398" height="259" key="GridCell.Tab.0.center" timestamp="1591246923528">
+      <screen x="0" y="0" width="1440" height="847" />
+    </state>
+    <state width="1398" height="263" key="GridCell.Tab.0.center/0.0.1440.846@0.0.1440.846" timestamp="1591219429439" />
+    <state width="1398" height="259" key="GridCell.Tab.0.center/0.0.1440.847@0.0.1440.847" timestamp="1591246923528" />
+    <state width="1398" height="307" key="GridCell.Tab.0.center/0.0.1440.848@0.0.1440.848" timestamp="1590937932930" />
+    <state width="1398" height="332" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1591219324958" />
+    <state width="1398" height="259" key="GridCell.Tab.0.left" timestamp="1591246923527">
+      <screen x="0" y="0" width="1440" height="847" />
+    </state>
+    <state width="1398" height="263" key="GridCell.Tab.0.left/0.0.1440.846@0.0.1440.846" timestamp="1591219429437" />
+    <state width="1398" height="259" key="GridCell.Tab.0.left/0.0.1440.847@0.0.1440.847" timestamp="1591246923527" />
+    <state width="1398" height="307" key="GridCell.Tab.0.left/0.0.1440.848@0.0.1440.848" timestamp="1590937932930" />
+    <state width="1398" height="332" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1591219324957" />
+    <state width="1398" height="259" key="GridCell.Tab.0.right" timestamp="1591246923529">
+      <screen x="0" y="0" width="1440" height="847" />
+    </state>
+    <state width="1398" height="263" key="GridCell.Tab.0.right/0.0.1440.846@0.0.1440.846" timestamp="1591219429442" />
+    <state width="1398" height="259" key="GridCell.Tab.0.right/0.0.1440.847@0.0.1440.847" timestamp="1591246923529" />
+    <state width="1398" height="307" key="GridCell.Tab.0.right/0.0.1440.848@0.0.1440.848" timestamp="1590937932931" />
+    <state width="1398" height="332" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1591219324958" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1591164540594">
+      <screen x="0" y="0" width="1440" height="846" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.846@0.0.1440.846" timestamp="1591164540594" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1591164540592">
+      <screen x="0" y="0" width="1440" height="846" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.846@0.0.1440.846" timestamp="1591164540592" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1591164540591">
+      <screen x="0" y="0" width="1440" height="846" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.846@0.0.1440.846" timestamp="1591164540591" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1591164540593">
+      <screen x="0" y="0" width="1440" height="846" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.846@0.0.1440.846" timestamp="1591164540593" />
+    <state x="349" y="154" key="NewModule_or_Project.wizard" timestamp="1590613119671">
+      <screen x="0" y="0" width="1440" height="848" />
+    </state>
+    <state x="349" y="154" key="NewModule_or_Project.wizard/0.0.1440.848@0.0.1440.848" timestamp="1590613119671" />
+    <state x="208" y="14" key="SettingsEditor" timestamp="1590613186711">
+      <screen x="0" y="0" width="1440" height="848" />
+    </state>
+    <state x="208" y="14" key="SettingsEditor/0.0.1440.848@0.0.1440.848" timestamp="1590613186711" />
+    <state x="114" y="151" key="new project wizard" timestamp="1590613196479">
+      <screen x="0" y="0" width="1440" height="848" />
+    </state>
+    <state x="114" y="151" key="new project wizard/0.0.1440.848@0.0.1440.848" timestamp="1590613196479" />
+    <state x="385" y="170" width="670" height="676" key="search.everywhere.popup" timestamp="1591161107008">
+      <screen x="0" y="0" width="1440" height="846" />
+    </state>
+    <state x="385" y="170" width="670" height="676" key="search.everywhere.popup/0.0.1440.846@0.0.1440.846" timestamp="1591161107008" />
+  </component>
+</project>
